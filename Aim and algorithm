@@ -1,0 +1,17 @@
+Aim : To perform list operations 
+Algorithm: 
+
+1. START
+2. Create a list named `values` containing integer values.
+3. Display the original list and its length.
+4. Add `65` to the end of the list using `append()`.
+5. Insert `30` at index `3` using `insert()`.
+6. Count the occurrences of `15` using `count()`.
+7. Find the index of `35` using `index()`.
+8. Remove `15` from the list using `remove()`.
+9. Create a copy of the list using `copy()`.
+10. Add `75` and `85` using `extend()`.
+11. Sort the list in ascending order using `sort()`.
+12. Reverse the list using `reverse()`.
+13. Find and display the maximum, minimum, and sum of the list using `max()`, `min()`, and `sum()`.
+14. STOP
